@@ -1,0 +1,20 @@
+INFORMACIÓN PERSONAL - TC2004B
+
+Nombre: Eugenio Moreno
+Matrícula: A01723720
+Carrera: Ingeniería en Ciencia de Datos y Matemáticas
+Semestre: 4to
+
+¿Por qué tomé este curso?
+Porque es parte de mi Carrera
+
+¿Qué espero aprender?
+Mejor uso de terminal y bases de SQL, así como interpretación de modelos sencillos.
+
+Herramientas que ya conozco:
+- Sci Kit Learn
+- Pandas
+
+Herramientas nuevas para mí:
+- Comandos de terminal
+- SQL, casi nunca lo había usado
