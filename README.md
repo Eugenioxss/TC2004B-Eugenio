@@ -38,8 +38,8 @@ TC2004B-Eugenio/
 
 #### 1. Clonar repositorio
 ```bash
-git clone https://github.com/TuUsuario/TC2004B-TuNombre.git
-cd TC2004B-TuNombre
+git clone https://github.com/Eugenioxss/TC2004B-Eugenio
+cd TC2004B-Eugenio
 ```
 
 #### 2. Crear ambiente virtual
