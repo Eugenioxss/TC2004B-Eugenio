@@ -6,7 +6,7 @@ Carrera: Ingeniería en Ciencia de Datos y Matemáticas
 Semestre: 4to
 
 ¿Por qué tomé este curso?
-Porque es parte de mi Carrera
+Porque es parte de mi carrera, y quiero aprender much0
 
 ¿Qué espero aprender?
 Mejor uso de terminal y bases de SQL, así como interpretación de modelos sencillos.
